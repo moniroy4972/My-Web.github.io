@@ -1,0 +1,84 @@
+@media (max-width: 340px){
+    header{
+       /* background-color: red; */
+      width: 670px;
+    }
+    #about{
+        /* background-color: red; */
+        width:670px
+    }
+    #portfolio{
+        /* background-color: rgb(51, 23, 23); */
+        width:670px
+    }
+    #contact{
+        /* background-color: rgb(254, 7, 7); */
+        width:670px
+    }
+    footer{
+        /* background-color: rgb(254, 7, 7); */
+        width:670px 
+    }
+    .welcomehr{
+        width: 500px;
+    }
+    .preline{
+        margin: auto;
+    }
+}
+@media (min-width: 341px) and (max-width: 600px){
+    header{
+       /* background-color: red; */
+      width: 670px;
+    }
+    #about{
+        /* background-color: red; */
+        width:670px
+    }
+    #portfolio{
+        /* background-color: rgb(51, 23, 23); */
+        width:670px
+    }
+    #contact{
+        /* background-color: rgb(254, 7, 7); */
+        width:670px
+    }
+    footer{
+        /* background-color: rgb(254, 7, 7); */
+        width:670px 
+    }
+    .welcomehr{
+        width: 500px;
+    }
+    .preline{
+        margin: auto;
+    }
+}
+@media (min-width: 601px) and (max-width:672px){
+    header{
+        /* background-color: red; */
+       width: 670px;
+     }
+     #about{
+         /* background-color: red; */
+         width:670px
+     }
+     #portfolio{
+         /* background-color: rgb(51, 23, 23); */
+         width:670px
+     }
+     #contact{
+         /* background-color: rgb(254, 7, 7); */
+         width:670px
+     }
+     footer{
+         /* background-color: rgb(254, 7, 7); */
+         width:670px 
+     }
+     .welcomehr{
+         width: 500px;
+     }
+     .preline{
+         margin: auto;
+     }
+}
